@@ -1,0 +1,6 @@
+dist/
+coverage/
+node_modules/
+.git/
+docs/
+version.js
