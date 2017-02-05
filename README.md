@@ -1,5 +1,7 @@
 # react-playground
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/obartra/react-playground.svg)](https://greenkeeper.io/)
+
 This is a WIP and just for fun! ⚽ not meant for prod use. At least not yet 😀
 
 Simple React App that has:
